@@ -1,0 +1,404 @@
+@media only screen and (min-width:1900px){
+    .banner_title {
+        margin-left: 34%;
+    }
+    header .bottom_head .bottom_wrap {
+        padding-top: 0px;
+    }
+}
+
+@media only screen and (max-width:1660px){
+    header .bottom_head .bottom_wrap{padding: 0px 20px;}     
+    .wrapper{padding: 0px 20px;}
+    .coverage .coverage_left{width: 36%;}
+    header ul li.drop ul{width: 300px;left: auto;right: 0px;}
+    .blogs_bg .blog_list .blog{margin-right: 9%;}
+    .main{margin-top: 150px;}
+    
+}
+@media only screen and (max-width:1460px){
+    header .bottom_head .bottom_wrap{max-width: 1320px;}   
+    header ul li.drop ul li a{padding-left: 30px;}
+    .main .banner_con h1{padding-top: 60px;padding-bottom: 60px;font-size: 44px;}
+    .how_bg{padding: 50px 0px;}
+    .how_bg .how_work .work_con{padding-bottom: 70px;}
+    .bottom_footer{padding-top: 40px;padding-bottom: 35px;}
+    header ul li a{font-size: 22px;}
+    header .bottom_head .bottom_wrap{padding-top: 20px;}
+    header .bottom_head{min-height: 72px;}
+    header .bottom_head .nav_right a.search{max-width: 30px;}
+    img{max-width: 100%;}
+    .main .banner_con h1{ padding-top: 50px;padding-bottom: 50px;font-size: 34px;}
+    .how_bg .how_work h2{padding-top: 25px;padding-bottom: 45px;}
+    h2{font-size: 38px;}
+    .how_bg .how_work .work_con .work_text h3{font-size:26px;padding-bottom: 20px;}
+    .how_bg .adviser .ad_text p,.coverage .coverage_left p,.how_bg .how_work .work_con .work_text p{font-size: 20px;}
+    .how_bg .how_work .work_con .work_img{width: 45%;}
+    .how_bg .how_work .work_con{padding-bottom: 20px;}
+    .how_bg .how_work .work_con .work_text{width: 50%;}
+    .how_bg .adviser .ad_text h2,.coverage .coverage_right h3,.coverage .coverage_left h2{font-size: 32px;}
+    .coverage .coverage_right{width: 57%;background-size: cover;height: 480px;}
+    .choose_in h2{padding-top: 84px;padding-bottom: 84px;font-size: 34px;}
+    .choose_in .list .box h4{font-size: 26px;padding-bottom: 20px;}
+    .choose_in .list .box .detail .text p{font-size: 22px;}
+    .choose_in .list .box .btn a.learn_more,.choose_in .list .box .btn a.get_btn{font-size: 24px;}
+    .get_bg .get_quote .submit{ width: 300px;line-height: 65px;font-size: 26px;}
+    footer .top_footer .left_contact h2{font-size: 40px;}
+    footer .top_footer .left_contact .contact_us ul li{margin-bottom: 30px;font-size: 20px;}
+    footer .top_footer h3{font-size: 24px;margin-bottom: 30px;}
+    .bottom_footer .copy_right p,.bottom_footer .footer_menu ul li a{font-size: 18px;}
+    
+    header ul li.drop_infomation ul.info_drop li a{padding-right: 50px;}
+    header ul li.drop_infomation ul.info_drop li a span{width: 70px;height: 70px;}
+    header ul li.drop_infomation ul.info_drop li a span img{max-width: 50%;}
+    header ul li.drop_infomation ul.info_drop li a h6{padding-right: 20px;font-size: 22px;line-height: 26px;}
+    header ul li.drop_infomation ul.info_drop{width: 430px;}
+    header ul li.drop_infomation ul.info_drop li ul.inner_drop li a{font-size: 20px;padding-right: 40px;
+    padding-left: 30px;line-height: 24px}
+    header ul li.drop_infomation ul.info_drop li ul.inner_drop{width: 300px;left: -300px;}
+    header ul li.drop_infomation ul.info_drop{top:72px}
+    header .bottom_head .nav_left img{max-width: 25px;}    
+    header .bottom_head .nav_left .search_drop{top:72px;padding-left: 30px;padding-right: 30px;width: 400px;}
+    header .bottom_head .nav_left .search_drop h3{padding-top: 20px;font-size: 22px;}
+    header .bottom_head .nav_left .search_drop .in{height: 40px;}
+    header .bottom_head .nav_left .search_drop .submit{width: 140px;font-size: 18px;line-height: 40px;}
+    header .bottom_head .nav_left .search_drop .hi_search h6{padding-top: 20px;font-size: 20px;padding-bottom: 15px;}
+    header .bottom_head .nav_left .search_drop .hi_search a{font-size: 16px;}
+    .get_bg .get_quote .contact_form .in_field{margin-right: 50px;}    
+      .blogs_bg .blog_list .blog {margin-right: 8.47%;}
+    .news_letter .left{width: 34%;}
+    
+    .main .inner_page .step{margin-top: 95px;margin-bottom: 60px;}
+    .main .inner_page .step .box h3{margin-bottom: 30px;font-size: 20px;}
+    .full_form{padding: 70px 35px 106px 50px;}
+    .main .personal_detail{padding: 80px 60px;}
+    
+    
+
+}
+@media only screen and (max-width:1366px)
+{
+    .bottom_footer .copy_right p, .bottom_footer .footer_menu ul li a{font-size: 16px;}
+    footer .top_footer .left_contact .contact_us ul li, footer .top_footer .left_contact .contact_us ul li a{font-size: 16px;}
+    footer .top_footer .left_contact .contact_us ul li i img{max-width: 25px;}
+    footer .top_footer .left_contact .contact_us ul li i{margin-right: 10px;}
+    footer .top_footer .right_social a{display: inline-block;vertical-align: middle;width: 45px;}
+    footer .top_footer h3{font-size: 22px;margin-bottom: 20px;}
+    .bottom_footer{padding: 20px 0px;}
+    .coverage{padding: 50px 0px;}
+    header ul li.drop ul li a{font-size: 20px;padding: 12px 0px;padding-left: 10px;}
+    header ul li.drop ul{top:52px;width: 150px;}
+    .main .banner_con .insurance_list img{max-width: 40%;}
+    .main .banner_con .insurance_list a{ width: 190px;height: 180px;margin-bottom: 50px;}
+    .main .banner_con .insurance_list h3{font-size: 20px;}
+        
+    .question_wrap h2{padding-top: 70px;padding-bottom: 40px;font-size: 32px;}
+    .question_wrap .question h3{font-size: 26px;padding-bottom: 20px;}
+    .question_wrap .question ul li,.question_wrap .question p{font-size: 22px;padding-bottom: 20px;line-height: 24px;}
+    .blogs_bg .blog_list .blog h4{padding-top: 22px;font-size: 24px;}
+    .news_letter .left h6{font-size: 26px;}
+    .main{margin-top: 180px;}
+    .full_form .in{height: 55px;}
+    .full_form label{line-height: 55px;font-size: 22px;}
+    .full_form .submit{max-width: 320px;line-height: 60px;font-size: 22px;margin-top: 0;}
+    
+    .main .personal_detail{padding: 80px 120px;}
+    .main .personal_detail .inner_detail .input_sec .right_field .check_in label{font-size: 20px;}
+    .main .personal_detail .inner_detail .input_sec label{font-size: 22px;}
+    .main .personal_detail .inner_detail .input_sec .right_field h3{font-size: 24px;}
+    .main .personal_detail .inner_detail h2{font-size: 26px;padding-top: 30px;}
+    .main .personal_detail .inner_detail h2 img{max-width: 70px;margin-right: 20px;}
+    
+    
+    
+    
+    
+    
+}
+@media only screen and (max-width:1280px) /* container size */    
+{
+    header ul li a{font-size: 18px;}
+    header .bottom_head .bottom_wrap{padding-top: 15px;}
+    header .bottom_head{min-height: 60px;}
+    header ul li.drop{background-position: right 7px;padding-right: 30px;background-size: 20px;}
+    .main .banner_con h1{font-size: 28px;padding-top: 30px;padding-bottom: 30px;}
+    .main .banner_con .insurance_list a{width: 180px;height: 180px; margin: 0px 40px;margin-bottom: 50px;}
+    .main .banner_con .insurance_list a img{max-width: 40%;}
+    .main .banner_con .insurance_list h3{font-size: 20px;}
+    .how_bg .how_work h2{font-size: 30px;}
+    .how_bg .how_work .work_con .work_text h3{font-size: 24px;padding-bottom: 10px;}
+    .how_bg .adviser .ad_text p, .coverage .coverage_left p, .how_bg .how_work .work_con .work_text p{font-size: 18px;line-height: 24px;}
+    .coverage{padding: 50px 0px;}
+    .how_bg .adviser .ad_text h2, .coverage .coverage_right h3, .coverage .coverage_left h2{font-size: 24px}
+    .coverage .coverage_right{height: 340px;}
+    .coverage .coverage_right h3{padding-top: 160px;}
+    .main .banner_con .insurance_list a{margin: 0px 70px;margin-bottom: 50px;}
+    .coverage .coverage_right{background-size: contain;}
+    .blogs_bg .blog_list .blog{margin-right: 6%;}
+    .news_letter .left{width: 34%;}
+    .news_letter .left h6{font-size: 22px;}
+    .news_letter{padding: 50px 0px;}
+    .main .personal_detail{padding: 70px 50px;}
+    .main .inner_page .step{ margin-top: 55px;margin-bottom: 40px;}
+    .main .personal_detail .inner_detail .input_sec .right_field.check3 .check_in{padding-left: 0;}
+    .main .personal_detail .inner_detail .input_sec .row .two_field{width: 100%;padding: 0px;margin-bottom: 20px;}
+    .main .personal_detail .inner_detail .input_sec .right_field.check_t .type .in.type{width: 44%;}
+    .main .personal_detail .inner_detail .input_sec .right_field.check_t .type .in.how_much{width: 33%;}
+    .main .personal_detail .inner_detail .input_sec .right_field .check_in label,.main .personal_detail .inner_detail .input_sec .row label{font-size: 18px;}
+    .main .personal_detail .row .btn_list a.next,.main .personal_detail .row .btn_list a.save{font-size: 18px;}
+    .main .inner_page .step .box:last-child span:after{right: 0}
+    
+    
+
+}
+@media only screen and (max-width:1024px) /* if tablate and mobile view is same */
+{
+    header .top_head a img{width: 140px;}
+    header .top_head .right{padding-bottom: 17px;}
+    .how_bg .adviser .ad_avtar{width: 41%;}
+    ser .ad_text h2, .coverage .coverage_right h3, .coverage .co{padding-top: 105px;}
+    .choose_in h2{padding-top: 60px;padding-bottom: 60px;font-size: 28px;}
+    .choose_in .list .box{width: 45%;}
+    .choose_in .list .box h4{ font-size: 24px;padding-bottom: 15px;}
+    .choose_in .list .box .detail .text{width: 75%;}
+    .choose_in .list .box .detail .text p{font-size: 18px;line-height: 22px;}
+    .choose_in .list .box .btn a.learn_more, .choose_in .list .box .btn a.get_btn{font-size: 20px;max-width: 200px;line-height: 48px;}
+    .choose_in .list .box .btn a.learn_more{line-height: 40px;}
+    .get_bg .get_quote h2{padding: 50px 0px;font-size: 32px;}
+    .get_bg .get_quote .contact_form .in_field{max-width: 38%;margin-right: 50px;}
+    .get_bg .get_quote .contact_form .in_field .in{height: 55px;}
+    .get_bg .get_quote .contact_form .in_field label{font-size: 20px;}
+    .get_bg .get_quote .submit{ width: 230px;line-height: 55px;font-size: 22px;}
+    footer .top_footer .left_contact h2{font-size: 30px;}
+    footer .top_footer .left_contact .contact_us{padding-left: 20px;}
+    footer .top_footer .left_contact .contact_us ul li, footer .top_footer .left_contact .contact_us ul li a{font-size: 18px;}
+    footer .top_footer .right_social a{max-height: 50px;display: inline-block;vertical-align: middle;}
+    .blogs_bg h2{padding-bottom: 30px;}
+    .blogs_bg .blog_list .blog{margin-right: 5%;width: 30%;}
+    .news_letter .right{width: 60%;}
+    .news_letter .left{width: 40%;}
+    .news_letter .right .in{height: 80px;}
+    .news_letter .right .submit{font-size: 28px;}
+    .blogs_bg .blog_list .blog a{width: 100%;}
+    .main .inner_page .step{margin-top: 35px;margin-bottom: 60px;}
+    .main .inner_page .step .box:first-child{width: 15.5%;}
+    .main .inner_page .step .box:last-child{width: 15.5%;}
+    .main .inner_page .step .box h3{font-size: 20px;margin-bottom: 30px;}
+    .full_form{padding: 50px 35px 30px 35px;}
+    .full_form label{font-size: 20px;}
+    .full_form .in{height: 50px;}
+    .full_form .row .cf{margin-bottom: 30px;}
+    .full_form .row .cf label{line-height: 50px;}
+    .full_form .submit{max-width: 300px;line-height: 60px;font-size: 22px;margin-top: 0;}
+    .main .personal_detail .inner_detail .input_sec{padding: 30px 70px 30px 70px;}
+    .main .personal_detail .inner_detail h2{padding-left: 60px;}
+    .main .personal_detail .submit{max-width: 400px;line-height: 60px;font-size: 26px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text a.request_quotes{max-width: 350px;
+    line-height: 70px;font-size: 20px;}
+    .main .personal_detail.policy_quotes .inner_detail .heading.panel_div{padding: 40px 14px 30px 50px;}
+    .main .inner_page .step .box.done:last-child span:after{right: 0;}
+    
+    
+}
+@media only screen and (max-width:960px)
+{
+    .how_bg{padding: 10px 0px;}
+    .how_bg .how_work .work_con .work_text,.how_bg .how_work .work_con .work_img{width: 100%;float: none;}
+    .how_bg .how_work .work_con .work_text{padding-top: 30px;}
+    .coverage{padding: 30px 0px;}
+    .coverage .coverage_right,.coverage .coverage_left{width: 100%;float: none;}
+    .coverage .coverage_right{margin-top: 30px;}
+    .coverage .coverage_left h2{padding-top: 0;}
+    .coverage .coverage_left h2 br{display: none;}
+    .coverage .coverage_right h3{padding-top: 145px;}
+    .how_bg .adviser .ad_text,.how_bg .adviser .ad_avtar{width: 100%;float: none;padding-top: 10px;}
+    .how_bg .adviser .ad_text h2{padding-top: 20px;}
+    .how_bg .adviser .ad_text p{padding-bottom: 20px;}
+    .choose_in h2{padding-top: 50px;padding-bottom: 50px;font-size: 24px;}
+    .choose_in .list .box h4{font-size: 20px;padding-bottom: 10px;}
+    .choose_in .list .box .detail .text p{font-size: 16px;line-height: 20px;}    
+    .choose_in .list .box .btn a.get_btn{margin-right: 20px;}
+    .choose_in .list .box .btn a.learn_more, .choose_in .list .box .btn a.get_btn{ font-size: 18px;max-width: 150px;}
+    .bottom_footer .copy_right,.bottom_footer .footer_menu,footer .top_footer .left_contact{width: 100%;float: none;text-align: center;padding-bottom: 10px;}
+    footer .top_footer .right_social{width: 100%;float: none;padding-left: 0;padding-bottom: 30px;}
+    header ul li.drop_infomation{padding-right: 30px;margin-right: 20px;background-size: 22px;}
+    header .bottom_head .nav_right ul:last-child{padding-left: 20px;}
+    .main .inner_page .step{margin-left: 10px;}
+    .full_form .row .cf{width: 100%;}
+    .full_form .row .cf label{width: 20%;}
+    .full_form .col-xs-12.cf .in,.full_form .in{width: 80%;}
+    .full_form{margin-bottom: 50px;}
+    .main .personal_detail .inner_detail .input_sec .right_field.check3 .check_in,.main .personal_detail .inner_detail .input_sec .right_field .check_in{padding-left: 20px;width: 100%;}
+    .main .personal_detail{padding: 40px 40px;}
+    .main .personal_detail .inner_detail .input_sec .right_field .in{padding-left: 10px;}
+    .main .personal_detail.policy_coverage .inner_detail .heading{padding: 40px 14px 30px 30px;}
+    .main .personal_detail.policy_coverage .inner_detail .heading a,.main .personal_detail.policy_coverage .inner_detail .heading h2{float: none;display: block;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .row{padding-left: 40px;padding-right: 40px;}
+    .main .personal_detail .inner_detail .input_sec .right_field,.main .personal_detail .inner_detail .input_sec label{width: 100%;float: none;}
+    .main .personal_detail .inner_detail .input_sec label{padding-bottom: 10px;}
+    
+    .main .healthshop_details.personal_detail .inner_detail .input_sec label{width: 100%;}
+    .main .healthshop_details.personal_detail .inner_detail .input_sec label br{display: none;}
+    .main .personal_detail .row .btn_list{width: 100%;}
+    .main .healthshop_details.personal_detail .inner_detail .input_sec{padding: 10px 40px 30px 40px;}
+    .main .personal_detail .inner_detail .input_sec .row .medication{margin-top: 20px;}
+    .main .personal_detail .inner_detail .input_sec .row{margin: 0}
+    .main .personal_detail .inner_detail .input_sec .row .medication .row label{width: 49%;}
+    .main .personal_detail .inner_detail .input_sec .row .medication .row .in, .main .personal_detail .inner_detail .main .personal_detail .inner_detail .input_sec .row .medication .row .in, .main .personal_detail .inner_detail .input_sec .row .medication .row .mid_in {width: 100%;float: left;margin-right: 0%;margin-bottom: 15px;}
+    .main .personal_detail .inner_detail .input_sec .row .check_list{width: 50%;}
+    .main .personal_detail .inner_detail .input_sec .row.automate .right_field .in,.main .personal_detail .inner_detail .input_sec .row.automate .row label,.main .personal_detail .inner_detail .input_sec .row.automate .right_field,.main .personal_detail .inner_detail .input_sec .row .row.not_full .right_field{width: 100%;margin-left: 0px}
+    
+    
+    
+    
+    
+}
+@media only screen and (max-width:767px)
+{
+    header .top_head a img{max-width: 120px;}
+    header .top_head .left,header .top_head .right{padding-top: 10px;padding-bottom: 10px;}
+    header .top_head .right{padding-bottom: 13px;}
+    .main .banner_con h1{font-size: 20px;padding: 20px 0px;}    
+    .main .banner_con .insurance_list a{margin: 0px 18px;width: 130px;height: 120px;margin-bottom: 30px;}
+    .main .banner_con .insurance_list h3{font-size: 16px;}
+    .how_bg .how_work h2{font-size: 24px;padding: 20px 0px;}
+    .choose_in h2,.how_bg .adviser .ad_text h2,.coverage .coverage_left h2,.how_bg .how_work .work_con .work_text h3{font-size: 20px;}
+    .coverage .coverage_right h3{font-size: 18px;padding-top: 125px;}
+    .coverage .coverage_right{height: 270px;}
+    .choose_in h2{padding: 30px 0px;}
+    .choose_in .list .box:last-child,.choose_in .list .box{margin: 0px;margin-bottom: 20px;width: 100%;}
+    .get_bg .get_quote h2{padding: 30px 0px;font-size: 28px;}
+    .get_bg .get_quote .contact_form .in_field{margin: 0;margin-bottom: 20px;width: 100%;max-width: 100%;float: none;}
+    .get_bg{background-size: cover;padding-bottom: 50px;}
+    .get_bg .get_quote .submit{width: 200px;line-height: 50px;font-size: 20px;margin-top: 10px;}
+    footer .top_footer{padding-top: 0;}
+    footer .top_footer .left_contact h2{padding-top: 20px;font-size: 24px;float: none;}
+    footer .top_footer .left_contact .contact_us{padding-left: 0;text-align: left;float: none;margin-top: 20px;}
+    footer .top_footer .left_contact .contact_us ul li, footer .top_footer .left_contact .contact_us ul li a{font-size: 16px;position: relative;}
+    footer .top_footer .left_contact .contact_us ul li{padding-left: 25px;margin-bottom: 15px;line-height: 18px;}
+    footer .top_footer .left_contact .contact_us ul li i img{max-width: 20px;}
+    footer .top_footer .left_contact .contact_us ul li i{position: absolute;left: 0px;}
+    footer .top_footer .left_contact .contact_us ul li i{display: inline-block;vertical-align: middle;}
+    .bottom_footer .copy_right p, .bottom_footer .footer_menu ul li a{font-size: 14px;}
+    
+    header .bottom_head .hamburger{display: block;margin-right: 20px;position: absolute;z-index: 99999;margin-top: 25px;width: 40px;height: 30px;top:0px;right: 0px; margin-top: 10px;width: 30px;}
+    .hamburger span{position: absolute;height: 3px;top:50%;width: 100%;transition:0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;background-color: #ffffff;right:0px;}
+    .hamburger span:before{position: absolute;content: '';width: 100%;height: 3px;background: #ffffff;top:10px;transition:0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;right:0px;}
+    .hamburger span:after{position: absolute;content: '';width: 100%;height: 3px;background: #ffffff;top:-10px;transition:0.5s all ease;-webkit-transition:0.5s all ease;-moz-transition:0.5s all ease;-o-transition:0.5s all ease;right:0px;}
+    .hamburger.is-active span{background-color:transparent;}
+    .hamburger.is-active span:after{transform: rotate(-45deg);top: 0px;}
+    .hamburger.is-active span:before{transform: rotate(45deg);top: 0px;}
+    
+    header .bottom_head .nav_right{position: fixed;width: 100%;height: 100%;left: 0px;right: 0px;background-color: #f44a4a;z-index: 99;padding-top: 50px;overflow: scroll;}
+    header .bottom_head .nav_right ul:last-child,header .bottom_head .nav_right ul{width: 100%;margin: 0;padding-left: 0;border: 0px;padding-left: 50px;margin-bottom: 20px;}
+    header ul li.drop_infomation ul.info_drop{position: relative;width: 100%;margin: 0px;left: 0px;right: 0px;top:0px;padding: 0px;}
+    header ul li.drop_infomation{margin: 0px;padding: 0px;margin-bottom: 20px;display: block;}
+    header .bottom_head .nav_right ul:last-child, header .bottom_head .nav_right ul{padding-left: 0;width: 80%;margin: 0 auto;display: block;}
+    header ul li.drop_infomation:hover ul.info_drop{width: 100%;}
+    header ul li.drop_infomation ul.info_drop li a{padding-left: 20px;padding-right: 20px;}
+    header ul li.drop_infomation ul.info_drop li a span{width: 40px;height: 40px;padding-right: 10px;padding-bottom: 10px;}
+    html body header .bottom_head .nav_right .drop_infomation .info_drop{display: none;margin-top: 20px;}
+    
+    header .bottom_head .nav_right{display: none;}
+    header .bottom_head .nav_left .search_drop{width: 100%;top: 60px;}
+    
+    header{position: fixed;top:0px;width: 100%;z-index: 99999;}
+    .main{margin-top: 120px;}
+    
+    /*goods_insured*/
+    .goods_insured header .bottom_head .nav_left{float: left;}
+    .goods_insured .main .banner_con .insurance_list a{margin: 0px 10px;margin-bottom: 20px;}
+    .question_wrap h2{padding-top: 40px;padding-bottom: 30px;font-size: 25px;}
+    
+    .question_wrap .question h3{font-size: 18px;padding-bottom: 10px;}
+    .question_wrap .question ul li, .question_wrap .question p{font-size: 16px;padding-bottom: 10px;line-height: 22px;}
+    .blogs_bg h2{font-size: 24px;}
+    .blogs_bg .blog_list .blog{width: 100%;margin-right: 0;}
+    .blogs_bg .blog_list .blog a{font-size: 22px;}
+    .news_letter .left,.news_letter .right{width: 100%;}
+    .news_letter .left img{max-width: 100px;}
+    .news_letter .left h6{font-size: 20px;width: 60%;}
+    .news_letter .left h6 br{display: none;}
+    .news_letter .right{margin-top: 50px;}
+    .news_letter .right .in{height: 50px}
+    .news_letter .right .submit{position: relative;margin-top: 20px;line-height: 50px;width: 100%;}
+    .main .inner_page .step .box h3{ font-size: 14px;margin-bottom: 20px;}
+    .main .inner_page .step .box span:after{width: 20px;height: 20px;top:-7px;}
+    .main .inner_page .step{margin-left: 0;margin-top: 20px;margin-bottom: 30px;}
+    .full_form .row .cf label{width: 100%;}
+    .full_form .col-xs-12.cf .in, .full_form .in{width: 100%;}
+    .full_form label{font-size: 16px;line-height: 30px}
+    .full_form .in{height: 45px;}
+    .full_form .row .cf{margin-bottom: 10px;}    
+    .full_form .row{margin: 0px}
+    .full_form .submit{max-width: 150px;line-height: 50px;font-size: 15px;margin-top: 30px;}
+    .full_form{padding: 20px 15px 10px 15px;}
+    header .bottom_head .nav_right{top:60px;}
+    .goods_insured header ul li.drop_infomation ul.info_drop li a{padding-left: 20px;font-size: 16px}
+    .goods_insured header ul li.drop_infomation ul.info_drop li a h6{font-size: 16px;padding-left: 20px;}
+    .main .inner_page .step .box h3{font-size: 12px;}
+    header ul li a{font-size: 14px}
+    header .bottom_head .nav_left img{max-width: 20px}
+    .goods_insured header .bottom_head .nav_left ul li{ padding-right: 10px;margin-right: 10px;}
+    
+    .main .personal_detail{padding: 10px;}
+    .main .personal_detail .inner_detail h2{padding-left: 20px;font-size: 20px;}
+    .main .personal_detail .inner_detail .input_sec{padding: 10px 20px;}
+    .main .personal_detail .inner_detail .input_sec .right_field,.main .personal_detail .inner_detail .input_sec label{display: block;float: none;width: 100%;font-size: 16px}
+    .main .personal_detail .inner_detail .input_sec .row{margin: 0px;margin-bottom: 20px;}
+    .main .personal_detail .inner_detail .input_sec .right_field .check_in label{font-size: 14px;}
+    .main .personal_detail .inner_detail .input_sec .right_field .in{height: 40px;font-size: 14px;}
+    .main .personal_detail .inner_detail .input_sec .right_field h3{font-size: 16px;}
+    .main .personal_detail .inner_detail h2 img{ max-width: 40px;margin-right: 10px;}
+    .main .personal_detail .inner_detail h2{font-size: 18px;}
+    .main .personal_detail .inner_detail{margin-bottom: 20px;}
+    .main .personal_detail .inner_detail.tab_sec .panel_div{background-size: 20px}
+    .main .personal_detail .submit{line-height: 50px;max-width: 80%;font-size: 20px;}
+    .main .personal_detail.policy_coverage .inner_detail .heading{padding: 30px 14px 0px 10px;}
+    .main .personal_detail.policy_coverage .inner_detail .heading a, .main .personal_detail.policy_coverage .inner_detail .heading h2{font-size: 14px;}
+    .main .personal_detail.policy_coverage .inner_detail .heading a{font-size: 18px;margin-top: 10px;}
+    .main .personal_detail .inner_detail h2 img{max-width: 30px;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .row{ padding-left: 20px;padding-right: 20px;padding-top: 0;padding-bottom: 0px;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .right_field p{font-size: 16px; margin-bottom: 20px;line-height: 24px;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .right_field .g_details h6{font-size: 14px;line-height: 16px;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .right_field .g_details img{max-width: 15px;}
+    .main .personal_detail.policy_coverage .inner_detail .input_sec .right_field .in{margin-bottom: 10px;}
+    .main .personal_detail.policy_quotes .inner_detail .heading.panel_div{padding: 20px 24px 20px 20px;}
+    .main .personal_detail.policy_quotes .inner_detail .question{right: 5px;}
+    .main .personal_detail.policy_quotes .inner_detail .row.active{padding: 0px 10px;margin: 0px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .top_logo{margin-bottom: 20px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text h3{font-size: 20px;padding-bottom: 15px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .range_slider{padding: 0px 10px;margin-top: 40px;}
+    .irs--flat .irs-bar, .irs--flat .irs-line{height: 10px;}
+    .irs--flat .irs-handle>i:first-child{ width: 25px;height: 25px;}
+    .irs--flat .irs-min, .irs--flat .irs-max{top:50px;visibility: visible !important;font-size: 14px;}
+    .irs--flat .irs-single{font-size: 14px;top:-5px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text.r_s p{padding-bottom: 20px;margin-top: 50px;font-size: 14px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text a{font-size: 14px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text .plan_list .plan{border: 0px;width: 100%;margin-bottom: 30px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text .plan_list .plan h5{margin: 5px 0px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text p{padding-bottom: 20px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text a.request_quotes{ max-width: 200px;line-height: 30px;font-size: 14px;}
+    .main .personal_detail.policy_quotes .inner_detail .row .co_amount .con_text h6{font-size: 14px;padding: 0px 10px;}
+    .main .personal_detail .inner_detail h2{padding: 20px 10px 14px 20px;}
+    .main .healthshop_details.personal_detail .inner_detail .input_sec{padding: 10px 10px 30px 10px;}
+    .main .personal_detail .row .btn_list a.next, .main .personal_detail .row .btn_list a.save,.main .personal_detail .inner_detail .input_sec .row .save_red{font-size: 14px;line-height: 40px;}
+    .main .personal_detail .inner_detail .input_sec .right_field.check_t .check_in,.main .personal_detail .inner_detail .input_sec .right_field.check_t .type label,.main .personal_detail .inner_detail .input_sec .right_field.check_t .type .in.type{margin-left: 0;width: 100%}
+    .main .personal_detail .inner_detail .input_sec .row .check_list{width: 100%}
+    
+    
+    
+    
+    
+    
+}
+@media (max-height: 500px)
+{
+
+}
+
+@media (max-width:321px)
+{
+
+}
+    
